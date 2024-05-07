@@ -16,7 +16,7 @@ This Python-based Customer Record Management System offers a user-friendly inter
 
 ## Usage
 1. Ensure Python and SQLite are installed on your system.
-2. Run the `customer_record.py` file to start the application.
+2. Run the `main.py` file to start the application.
 3. Use the graphical interface to manage customer records, update balances, and view transaction history.
 
 Enjoy efficient customer record management with ease! 📝
